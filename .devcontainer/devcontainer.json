@@ -21,12 +21,8 @@
 				"esbenp.prettier-vscode",
 				"vscode-icons-team.vscode-icons",
 				"wayou.vscode-todo-highlight"
-			],
-			"settings": {
-				"editor.fontSize": 25,
-				"terminal.integrated.fontSize": 16,
-				"editor.wordWrap": "on"
-			}
+			]
+			
 			
 		}
 		
